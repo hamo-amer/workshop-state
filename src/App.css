@@ -1,0 +1,14 @@
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+}
+.counter span {
+  margin: 50px;
+
+}
+
